@@ -6,3 +6,4 @@ test
 수정관 add / commit 두번
 한번에 push
 두번째 시도
+add 랑 commit 한번에 처리
